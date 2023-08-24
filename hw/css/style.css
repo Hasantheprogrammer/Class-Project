@@ -1,0 +1,32 @@
+/*this is a css file*/
+
+h2{
+    color: aqua;
+    border: 2px solid rebeccapurple;
+    border-style: double;
+    border-width: 5px 10px;
+    border-color: blue;
+    border-right: dotted;
+}
+h3{
+    background-color: #b3b3ff;
+    opacity: 0.5;
+    border-radius: 30%;
+    
+}
+h4{
+    background-color: rgb(255, 153, 153);
+}
+h5{
+    background-color: hsl(120, 60%, 50%);
+}
+h6{
+    color: #b3b3ff;
+    background-image: url(https://th.bing.com/th/id/OIP.RQZBsmXlhZqPLdEJYkJxhwHaFj?pid=ImgDet&rs=1);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+address{
+    background: #ffffff no-repeat right top;;
+    background: 10px blue;
+}
